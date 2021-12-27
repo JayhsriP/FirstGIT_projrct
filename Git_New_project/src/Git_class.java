@@ -10,6 +10,7 @@ public class Git_class {
 	public void m2()
 	{
 		System.out.println("This is m2 thd");	
+		System.out.println("This is thd");
 	}
 	public static void main(String[] args) {
 		
