@@ -7,6 +7,10 @@ public class Git_class {
 	{
 		System.out.println("Addition mthd");	
 	}
+	public void su()
+	{
+		System.out.println("subtraction mthd");	
+	}
 	public static void main(String[] args) {
 		
 		
