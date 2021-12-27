@@ -7,5 +7,7 @@ public class Git_class {
 		
 		
 		System.out.println("hi this is git program");
+		
+		System.out.println("made some changes");
 	}
 }
