@@ -18,5 +18,6 @@ public class Git_class {
 
 		Git_class git=new Git_class();
 		git.add();
+		System.out.println("New branch");
 	}
 }
